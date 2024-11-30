@@ -62,7 +62,7 @@ Use the `BLANK_README.md` to get started.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,pycharm,python,django,docker,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,pycharm,python,django,docker,html,css,js" />
   </a>
 </p>
 
@@ -73,8 +73,7 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This guide will help you set up the project and run it locally. Follow the steps below to get started.
 
 ### Prerequisites
 
