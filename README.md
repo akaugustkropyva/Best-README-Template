@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Menu][muny-screenshot]]([https://example.com](https://github.com/akaugustkropyva/Best-README-Template/blob/main/Screenshot.png))
 
 OceanDo is a task management application designed to help users organize and prioritize their tasks efficiently. The application allows users to create, edit, and manage their tasks with ease.
 
