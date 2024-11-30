@@ -79,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-2.Install Poetry (if not already installed):
+2. Install Poetry (if not already installed):
   ```sh
     curl -sSL https://install.python-poetry.org | python3 -
    ```
