@@ -76,35 +76,35 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Clone the Repository
-   ```sh
+  ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
 2.Install Poetry (if not already installed):
-    ```sh
+  ```sh
     curl -sSL https://install.python-poetry.org | python3 -
    ```
 3. Install Dependencies
-   ```sh
+  ```sh
    poetry install
    ```
 4. Activate the virtual environment:
-   ```sh
+  ```sh
    poetry shell
    ```
 5. Apply migrations:
-    ```sh
+  ```sh
     python manage.py migrate
    ```
 6. Create a superuser:
-    ```sh
+  ```sh
   python manage.py createsuperuser
    ```
 7. Run the development server:
-    ```sh
+  ```sh
   python manage.py runserver
    ```
 8. Open your browser and navigate to:
-    ```sh
+  ```sh
    http://127.0.0.1:8000
    ```
 
