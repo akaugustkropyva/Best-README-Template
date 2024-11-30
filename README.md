@@ -3,6 +3,8 @@
 
   <p align="center">
     Site for organizing tasks
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
 
